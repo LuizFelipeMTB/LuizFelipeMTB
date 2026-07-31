@@ -4,6 +4,12 @@
 - 📝 Atualmente trabalho como Entrevistador do Cadastro Unico
 
 
+### 🛠️ Tecnologias e Ferramentas
+- Linguagens: Python, JavaScript, SQL, PHP, CSS, HTML, Markdown.
+- Ambientes: PyCharm, Visual Studio, MySQL Workbench
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width=30/>
+          
+
 <!--
 **LuizFelipeMTB/LuizFelipeMTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
