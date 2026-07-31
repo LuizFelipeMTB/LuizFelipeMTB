@@ -1,5 +1,8 @@
-## Hi there 👋
+## Olá, sou Luiz Felipe 👋
 
+- 📝 Atualmente trabalho como Entrevistador do Cadastro Unico
+- ⚡ Acadêmico de Sistemas de Informação
+- 
 <!--
 **LuizFelipeMTB/LuizFelipeMTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
