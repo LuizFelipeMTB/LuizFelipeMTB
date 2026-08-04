@@ -2,6 +2,7 @@
 
 - ⚡ Acadêmico de Sistemas de Informação
 - 📝 Atualmente trabalho como Entrevistador do Cadastro Unico
+- 🌿Integrante do programa Faeg Jovem
 
 #
 
