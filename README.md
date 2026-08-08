@@ -11,7 +11,7 @@
 |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width=40/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=40> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=40> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width=46> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=40> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=40> &nbsp;<img width="47" height="40" alt="ChatGPT Image 4 de ago  de 2026, 15_55_03" src="https://github.com/user-attachments/assets/63221fdf-87d0-43de-a233-a11d2e2c4d5c" /> |
 
 #
-| Ambienetes (IDEs) &nbsp;  <img width="24" height="24" alt="app_registration_62dp_E3E3E3_FILL0_wght400_GRAD0_opsz48" src="https://github.com/user-attachments/assets/489a02f3-1c93-4b36-a65b-d0bef1808c20" width="30" align="center" style="margin-left: 50px;" /> |
+| Ambientes (IDEs) &nbsp;  <img width="24" height="24" alt="app_registration_62dp_E3E3E3_FILL0_wght400_GRAD0_opsz48" src="https://github.com/user-attachments/assets/489a02f3-1c93-4b36-a65b-d0bef1808c20" width="30" align="center" style="margin-left: 50px;" /> |
 | :--- |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width=60> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width=60> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width=60>|
 
